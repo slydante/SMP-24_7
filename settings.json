@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Mystery_SMP.aternos.me",
-    "port": 41142,
+    "ip": "mysterysmp.seedloaf.gg",
+    "port": 57473,
     "version": "1.20.1",
     "try-creative": false
   },
