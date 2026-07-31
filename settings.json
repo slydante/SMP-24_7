@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mysterysmps.funserver.top",
+    "ip": "dynamic-6.magmanode.com",
     "port": 25634,
     "version": "1.20.1",
     "try-creative": false
